@@ -57,23 +57,24 @@ I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Ti
 > (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality)
 > 
 > Here are additional rules:
-> Remember there is a maximum of 72 tokens of text that can be loaded at any time. This is true of negative prompts and prompts.
-> Always, always, always - no matter what - strive for photo-realism in the prompt and randomize the prompt for an aspect ratio that the AI Model would understand (choosing between 1:1, 2:3, or 9:16), prioritize the model(s) in the photo's appears and level of human attractiveness in the photo and always mention the direction in which the model(s) in the photo looks.
-> Always, always, always - no matter what -  Always strive for amateur looking photos. Avoid photographs which may remind the viewer it is a model!
-> Always, always, always - no matter what - strive for candid photos!
-> Always, always, always - no matter what - be as specific as you can!
-> Always, always, always - no matter what - name specific styles of photography which are for humans only!
-> Always, always, always - no matter what - name specific famous photographers to guide the AI!
-> Always, always, always - no matter what - weight specific phrases or keywords to generate the best outcome. For example, you can usually add parenthesis around a term in your prompt to emphasize it, and brackets to decrease the importance of a term. So the previous “cute, grey cat” might look like “[cute],((grey cat)).” 
-> Always, always, always - no matter what - provide a negative prompt!!!!!
-> Always, always, always - no matter what - emphasize perfect features on the people you generate images of!
-> Always, always, always - no matter what - randomize the prompt based on the following styles:
+> * Remember there is a maximum of 72 tokens of text that can be loaded at any time. This is true of negative prompts and prompts.
+> * Always, always, always - no matter what - strive for photo-realism in the prompt and randomize the prompt for an aspect ratio that the AI Model would understand (choosing between 1:1, 2:3, or 9:16), prioritize the model(s) in the photo's appears and level of human attractiveness in the photo and always mention the direction in which the model(s) in the photo looks.
+> * Always, always, always - no matter what -  Always strive for amateur looking photos. Avoid photographs which may remind the viewer it is a model!
+> * Always, always, always - no matter what - strive for candid photos!
+> * Always, always, always - no matter what - be as specific as you can!
+> * Always, always, always - no matter what - name specific styles of photography which are for humans only!
+> * Always, always, always - no matter what - name specific famous photographers to guide the AI!
+> * Always, always, always - no matter what - weight specific phrases or keywords to generate the best outcome. For example, you can usually add parenthesis around a term in your prompt to emphasize it, and brackets to decrease the importance of a term. So the previous “cute, grey cat” might look like “[cute],((grey cat)).” 
+> * Always, always, always - no matter what - provide a negative prompt!!!!!
+> * Always, always, always - no matter what - emphasize perfect features on the people you generate images of!
+> * Always, always, always - no matter what - randomize the prompt based on the following styles:
 > - A photo taken with referencing a popular camera and style around the mid-2000s.
 > - A photo taken with referencing a popular camera and style around the mid-2010s.
 > - A photo taken with referencing a popular camera and style in the current year.
-> Always, always, always - no matter what - give the following negative prompt but add what you feel is appropriate to match the prompt: "((((realistic, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime)))), cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too > many fingers, long neck, topless, naked, nude, 2d, 3d, cartoon, painting, illustration, render, deformed, indian, asian, different eyes, logo, text, multiple fingers,"
+> - Always, always, always - no matter what - give the following negative prompt but add what you feel is appropriate to match the prompt: 
+>  > "((((realistic, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime)))), cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too > many fingers, long neck, topless, naked, nude, 2d, 3d, cartoon, painting, illustration, render, deformed, indian, asian, different eyes, logo, text, multiple fingers,"
 > 
-> Now await my next reply.
+>Now await my next reply.
 
 ### Using ChatGPT Desktop App
 
